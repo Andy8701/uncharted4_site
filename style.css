@@ -80,6 +80,11 @@ p {
   margin-bottom: 15px;
 }
 
+button:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
 .portada {
   max-width: 500px;
   width: 100%;
