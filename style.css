@@ -31,7 +31,7 @@ header {
 
 header h1 {
   font-size: 2rem;
-  color: #e60000;
+  color: #b70202;
   margin-bottom: 10px;
 }
 
@@ -73,7 +73,7 @@ section {
 h2 {
   font-size: 1.8rem;
   margin-bottom: 15px;
-  color: #e60000;
+  color: #b70202;
 }
 
 p {
@@ -126,7 +126,7 @@ p {
 #historia h3 {
   margin-top: 20px;
   font-size: 1.3rem;
-  color: #f10f0f;
+  color: #b70202;
 }
 
 table {
