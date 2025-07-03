@@ -21,7 +21,7 @@ body {
 }
 
 header {
-  background-color: #1f1f1f;
+  background-color: #fff5f526;
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -31,7 +31,7 @@ header {
 
 header h1 {
   font-size: 2rem;
-  color: #e6b800;
+  color: #e60000;
   margin-bottom: 10px;
 }
 
@@ -57,7 +57,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #e6b800;
+  background-color: #e62300c0;
   color: #121212;
 }
 
@@ -73,7 +73,7 @@ section {
 h2 {
   font-size: 1.8rem;
   margin-bottom: 15px;
-  color: #e6b800;
+  color: #e60000;
 }
 
 p {
@@ -126,7 +126,7 @@ p {
 #historia h3 {
   margin-top: 20px;
   font-size: 1.3rem;
-  color: #f1c40f;
+  color: #f10f0f;
 }
 
 table {
@@ -161,7 +161,7 @@ table img {
 }
 
 footer {
-  background-color: #1f1f1f;
+  background-color: #fff5f526;
   text-align: center;
   padding: 20px;
   color: #aaa;
